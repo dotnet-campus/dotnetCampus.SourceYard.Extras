@@ -1,0 +1,3 @@
+[submodule "SourceYard"]
+	path = SourceYard
+	url = git@github.com:dotnet-campus/SourceYard.git
